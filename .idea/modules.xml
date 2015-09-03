@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/JavaMultiThreadingExamples.iml" filepath="$PROJECT_DIR$/.idea/JavaMultiThreadingExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMultiThreadingExamples.iml" filepath="$PROJECT_DIR$/JavaMultiThreadingExamples.iml" />
     </modules>
   </component>
 </project>
