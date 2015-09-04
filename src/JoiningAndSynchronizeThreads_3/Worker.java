@@ -76,7 +76,9 @@ public class Worker {
         try {
             thread1.join();
             thread2.join();
-        } catch (InterruptedException ignored) {}
+        } catch (InterruptedException ignored) {
+
+        }
         System.out.println("Count is: " + count);
     }
 }
