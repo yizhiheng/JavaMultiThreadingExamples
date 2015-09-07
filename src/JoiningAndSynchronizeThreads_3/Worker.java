@@ -3,22 +3,6 @@ package JoiningAndSynchronizeThreads_3;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- * {@code synchronized} ("only let one thread in here at a time".) and {@code join} ("wait until
- * thread on which join has called finished") keyword.
- * <br><br>
- * Codes with minor comments are from
- * <a href="http://www.caveofprogramming.com/youtube/">
- * <em>http://www.caveofprogramming.com/youtube/</em>
- * </a>
- * <br>
- * also freely available at
- * <a href="https://www.udemy.com/java-multithreading/?couponCode=FREE">
- *     <em>https://www.udemy.com/java-multithreading/?couponCode=FREE</em>
- * </a>
- *
- * @author Z.B. Celik <celik.berkay@gmail.com>
- */
 public class Worker {
 
     private int count = 0;
